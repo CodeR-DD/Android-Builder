@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "RedmiK305G",
-      "repo": "",
-      "branch": "",
-      "device": "",
-      "defconfig": ""
+      "name": "Your Device Name",
+      "repo": "Kernel Repo",
+      "branch": "Kernel Repo Branch",
+      "device": "Device Name",
+      "defconfig": "Your Defconifg Name"
     },
     "enableCcache": true,
     "toolchains": [
